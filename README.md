@@ -1,9 +1,9 @@
-#Responsive pricing tables
+# Responsive pricing tables
 
-###Scripts
+### Scripts
 
-####Install
+#### Install
 > yarn install
 
-####Run
+#### Run
 > yarn start
