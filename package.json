@@ -1,0 +1,16 @@
+{
+  "name": "pricing-tables",
+  "version": "1.0.0",
+  "description": "responsive pricing table",
+  "main": "index.js",
+  "repository": "https://github.com/gustavoleste/pricing-tables.git",
+  "author": "Gustavo Leste <gustavoleste@protonmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
